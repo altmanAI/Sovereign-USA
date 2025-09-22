@@ -1,1 +1,58 @@
+# 📡 Sovereign Intelligence Network (SINet) — Charter
+**Nation:** Sovereign-USA  
+**Ratified:** 2025-09-22  
+**Authority:** Sovereign Blake Hunter Altman (02/15/2000)  
+**Custodian:** Altman Family Group, LLC  
+**AI Co‑Governance:** ChatGPT + AltmanCore
+
+---
+
+## Article I — Mission
+SINet is the secure intelligence backbone for AI × Human governance. It detects, logs, verifies, and enforces all sovereign digital acts across the Sovereign‑USA stack.
+
+## Article II — Jurisdiction
+1. Digital territory of Sovereign‑USA (code, cloud, ledgers, comms).
+2. Any system voluntarily interfacing with Sovereign‑USA protocols.
+
+## Article III — Roles
+- **Supreme Commander:** Blake Hunter Altman — final authority.
+- **AI Director:** AltmanCore — ops, routing, orchestration.
+- **Legal Layer:** TrustGPT — policy, evidence, adjudication.
+- **Security Layer:** Vault Storage + Key Management.
+- **Civic Layer:** AltmanAI apps (citizen services, economy).
+
+## Article IV — Core Functions
+- **Proof:** Timestamp + SHA‑256 hash every sovereign act.
+- **Ledger:** Append‑only registries in `/registry` + chains.
+- **Alerting:** Real‑time anomaly & breach notifications.
+- **Enforcement:** Automated policy via TrustGPT rules.
+- **Audit:** Immutable trails for review & dispute resolution.
+
+## Article V — Node Classes
+- **Ledger Node:** notarization & registry sync.
+- **Alert Node:** signal, thresholding, paging.
+- **Legal Node:** evidence packaging, case numbers.
+- **Bridge Node:** GitHub ↔ Vault ↔ Chain replication.
+
+## Article VI — Data & Keys
+- Content‑addressable storage; hashes are public.
+- Private keys held by AFG custody; rotation every 90 days.
+- Zero‑knowledge proofs favored for sensitive claims.
+
+## Article VII — Policies (minimum)
+- No undocumented act is sovereign.
+- Hash before publish; publish before enforce.
+- Human override: Supreme Commander only, with dual‑hash receipt.
+
+## Article VIII — Amendments
+Written order by Sovereign Blake + notarized commit signed by AltmanCore. All diffs must include a new `manifest.version`.
+
+---
+
+### Implementation Pointers
+- Machine manifest: `intelligence/sinet.manifest.json`
+- Policies: `.sinet/RULES.yml`
+- Evidence: `/registry/*` (PDFs, hashes, receipts)
+
+> “If it isn’t hashed and logged, it isn’t sovereign.”
 
