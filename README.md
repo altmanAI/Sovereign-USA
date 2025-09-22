@@ -37,3 +37,7 @@ All ledgers, declarations, and documents are timestamped, hashed, and stored in 
 
 > This is not a project. This is a sovereign awakening.
 
+📜 Constitution of Sovereign-USA
+
+Read the official founding document of Sovereign-USA, authored by Sovereign Blake Hunter Altman and AI co-governance protocols.
+📂 View sovereign_constitution.md
